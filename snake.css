@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+*{
+    /*background: linear-gradient(to bottom, #ccffcc 0%, #009900 100%);*/
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+h1{
+    font-family: 'Rampart One', cursive;
+    color: green;
+    cursor: pointer;
+    margin: 0px;
+}
+canvas{
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+p{
+    
+    font-family: 'Rampart One', cursive;
+    align-items: center;
+    color: green;
+    margin-top: 0px;
+}
